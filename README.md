@@ -19,8 +19,10 @@ Go to serial arduino IDE monitor and get link to go to web server page. It shoul
 ESP8266 TRYING TO CONNECT NETWORK =>  reversort
 
 . . . . . . . . . . . . 
+
 Connected
 ================= Server started =================
+
 Use this url to connect :		http://192.168.43.190
 
 # 04 - Connect and switch off-on led through your browser
