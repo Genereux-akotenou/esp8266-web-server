@@ -16,7 +16,7 @@ and connect the second part to GND
 
 Go to serial arduino IDE monitor and get link to go to web server page. It should look like this
 
-ESP8266 TRYING TO CONNECT NETWORK =>  reversort
+ESP8266 TRYING TO CONNECT NETWORK =>  reversort\n
 . . . . . . . . . . . . 
 Connected
 ================= Server started =================
